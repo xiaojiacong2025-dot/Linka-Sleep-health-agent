@@ -1,0 +1,21 @@
+[
+  {
+    "source_id": "hrv_rigor_2026",
+    "title": "Guidelines for Rigor and Reproducibility of Heart Rate Variability within Human Cardiovascular Research",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13477148/",
+    "accessed": "2026-11-18"
+  },
+  {
+    "source_id": "scipy_find_peaks",
+    "title": "SciPy find_peaks documentation",
+    "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.find_peaks.html",
+    "accessed": "2026-11-18"
+  },
+  {
+    "source_id": "cdc_sleep",
+    "title": "CDC: About Sleep",
+    "url": "https://www.cdc.gov/sleep/about/",
+    "accessed": "2026-11-18"
+  }
+]
+

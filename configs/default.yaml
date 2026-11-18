@@ -1,0 +1,29 @@
+simulation:
+  seed: 42
+  sampling_rate_hz: 250
+  duration_seconds: 900
+  demo_nights: 10
+signal:
+  filter_low_hz: 0.5
+  filter_high_hz: 35.0
+  filter_order: 4
+  peak_min_distance_seconds: 0.30
+  peak_prominence: 0.45
+metrics:
+  window_seconds: 300
+  step_seconds: 60
+  rr_min_ms: 400
+  rr_max_ms: 1500
+  min_valid_rr: 100
+quality:
+  min_coverage: 0.99
+  min_contact_fraction: 0.99
+  max_motion_fraction: 0.05
+  max_abnormal_rr_fraction: 0.10
+retrieval:
+  top_k: 4
+agent:
+  max_tool_calls: 4
+  llm_timeout_seconds: 30
+  llm_retries: 1
+
